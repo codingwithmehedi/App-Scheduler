@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Scheduler</string>
+
+    <string name="string_nav_home">Home</string>
+    <string name="string_nav_account">Account</string>
+    <string name="string_nav_setting">Settings</string>
+</resources>

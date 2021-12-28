@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_navy">#1f3157</color>
+    <color name="dark_blue_200">#254D71</color>
+    <color name="dark_blue_500">#021A2D</color>
+    <color name="dark_blue_700">#060B23</color>
+    <color name="blush">#FEB4A9</color>
+    <color name="orange">#E8801E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+           <!--Custom Color-->
+    <color name="bg_button">#FEB4A9</color>
+    <color name="bg_layout">#254D71</color>
+    <color name="bg_nav">#021A2D</color>
+    <color name="button_bg">#FEB4A9</color>
+
+    
+</resources>
